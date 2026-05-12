@@ -90,14 +90,7 @@ Explore 5 key analytical questions with visualizations and actionable insights f
 
 ## Tableau Dashboard
 
-### View Interactive Dashboard
-
-**Dashboard Features:**
-- Interactive filters by Industry, Location, Company Size
-- Salary trends by automation risk
-- AI adoption correlation analysis
-- Skill frequency heatmaps
-- Geographic distribution mapping
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-blue?logo=tableau)](https://public.tableau.com/views/AIjobmarket_17770748730240/Dashboard1)
 
 ---
 
